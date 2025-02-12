@@ -4,7 +4,7 @@ void main (){
    1: "Joel",
    2: "Alberto",
    3: "Aldo",
- };
+ }; 
   print("Mapa de alumnos: ");	
   print(alumnos);
 
