@@ -1,3 +1,3 @@
-Salida del mapa 
+Salida completa de los 2 mapas 
 
-![alt text](image-3.png)
+![alt text](image-6.png)
