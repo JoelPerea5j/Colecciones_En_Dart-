@@ -59,11 +59,6 @@ void main() {
 
 
 
-
-
-
-
-
 class Producto {
   int Id_Producto;
   int Id_sucursal;
